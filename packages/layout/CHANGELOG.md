@@ -1,5 +1,19 @@
 # Change Log
 
+## 1.3.2
+
+### Patch Changes
+
+- [`dedc2d45f`](https://github.com/chakra-ui/chakra-ui/commit/dedc2d45fd8e568f9162bcf406b3059819eff6ff)
+  [#3463](https://github.com/chakra-ui/chakra-ui/pull/3463) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - `SimpleGrid`: Avoid grid
+  blow by adding `minmax(0, 1fr)`
+
+- Updated dependencies
+  [[`87cc23e14`](https://github.com/chakra-ui/chakra-ui/commit/87cc23e14814e02cbbfc9737c2356cef682ddd5d)]:
+  - @chakra-ui/utils@1.3.0
+  - @chakra-ui/icon@1.1.2
+
 ## 1.3.1
 
 ### Patch Changes
